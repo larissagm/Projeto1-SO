@@ -1,5 +1,4 @@
-# Projeto1-SO
-Primeiro projeto da disciplina Sistemas Operacionais
+# Projetos da disciplina Sistemas Operacionais
 
 Compilação:
 g++ projetoSO.cpp -o projetoSO
